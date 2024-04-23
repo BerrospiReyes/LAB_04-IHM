@@ -31,7 +31,8 @@ const Aside = () => {
                               <input type="password" id="contraseña" />
                           </div>
                           <br />
-                          <button type="submit" className="btn btn-dark" tabIndex="5">Enviar</button>
+                          <button type="submit" className="btn btn-dark" tabIndex="5">
+                          <i data-feather="send"></i>Enviar</button>
                       </form>
                   </div>
               </div>

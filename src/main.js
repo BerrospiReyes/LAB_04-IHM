@@ -6,9 +6,9 @@ const Main = () => {
 
     return (
         <main>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 bg-primary d-flex justify-content-center p-2">
+            <div className="container">
+                <div className="row">
+                    <div className="col-md-12 bg-primary d-flex justify-content-center p-2">
                         <h1>👨‍🔧Servicio Técnico👨‍🔧</h1>
                     </div>
                 </div>

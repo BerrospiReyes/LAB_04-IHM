@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './style.css'
 import React, { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import Message from "./message";
@@ -5,6 +7,11 @@ import Header from "./header";
 import Main from "./main";
 import Aside from "./aside";
 import Footer from "./footer";
+const feather = require('feather-icons');
+
+setTimeout(() =>{
+    feather.replace();
+},1000);
 
 
 const root = createRoot(document.getElementById("root"));
