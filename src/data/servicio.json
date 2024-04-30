@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Servicio Presencial",
+        "slug": "servicio-1",
+        "description": "Un experto se desplaza hasta el lugar donde se encuentra el equipo o dispositivo que requiere reparación o mantenimiento. Este tipo de servicio ofrece la ventaja de contar con la presencia física de un especialista capacitado, lo que permite una evaluación y solución más precisa de los problemas técnicos.",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpb_Gu44YQMTPRDpS6r8PTn2IMZ2hJyUXBKMeCDOqqA&s"
+    },
+    {
+        "name": "Servicio Remoto",
+        "slug": "servicio-2",
+        "description": "el usuario que necesita ayuda proporciona acceso a su dispositivo a través de una conexión segura. El técnico o especialista, utilizando software especializado, puede ver la pantalla del usuario y controlar su dispositivo de forma remota",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfirP_SorHD39TD0GtS4vCwL28BDOL0R6FlyvzEl-DA&s"
+    },
+    {
+        "name": "Servicio Telefónico",
+        "slug": "servicio-4",
+        "description": "Se pueden realizar llamadas de voz y, en algunos casos, también enviar mensajes de texto. El servicio telefónico puede ser tanto fijo como móvil, dependiendo de si se utiliza un teléfono conectado a una línea fija o un teléfono móvil con una tarjeta SIM.",
+        "picture": "https://static.vecteezy.com/system/resources/previews/012/675/368/original/illustration-phone-technical-support-vector.jpg"
+    }
+]
