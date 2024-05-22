@@ -37,26 +37,27 @@
 }
 
 .carousel-caption .btn {
-    background-color: #FFFFFF; /* Fondo blanco */
-    color: #000000; /* Texto negro */
-    border: 2px solid #000000; /* Borde negro */
-    font-weight: bold; /* Negrita */
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 2px solid #000000;
+    font-weight: bold;
 }
 
 .carousel-caption .btn:hover {
-    background-color: #000000; /* Fondo negro al pasar el mouse */
-    color: #FFFFFF; /* Texto blanco al pasar el mouse */
+    background-color: #000000;
+    color: #FFFFFF;
 }
-/* Estilo para el texto del carrusel */
+
+
 .carousel-caption h3 {
-    color: #FFFFFF; /* Color blanco para el título */
-    font-size: 24px; /* Tamaño de fuente */
-    font-weight: bold; /* Negrita */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Sombra para mejor visibilidad */
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
 }
 
 .carousel-caption p {
-    color: #FFFFFF; /* Color blanco para la descripción */
-    font-size: 16px; /* Tamaño de fuente */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Sombra para mejor visibilidad */
+    color: #FFFFFF;
+    font-size: 16px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
 }
