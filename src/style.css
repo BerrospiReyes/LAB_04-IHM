@@ -2,14 +2,6 @@
     background-color: red;
 }
 
-.imagen-carrusel {
-    width: 100%;
-    height: 60vh;
-    object-fit: cover;
-    display: block;
-    margin: 0 auto;
-}
-
 .color-primario {
     background-color: #99A3A8;
 }
@@ -23,7 +15,7 @@
 }
 
 .imagen-carrusel {
-    height: 50vh;
+    height: 80vh;
     object-fit: cover;
 }
 
