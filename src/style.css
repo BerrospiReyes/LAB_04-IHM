@@ -1,10 +1,62 @@
-.btn--primary{
+.btn--primary {
     background-color: red;
-
 }
 
-.imagen-chica
-{
-    max-width: 100 px;
-    max-height: 100 px;
+.imagen-carrusel {
+    width: 100%;
+    height: 60vh;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.color-primario {
+    background-color: #99A3A8;
+}
+
+.color-secundario {
+    background-color: #2B2C36;
+}
+
+.color-terciario {
+    background-color: #656675;
+}
+
+.imagen-carrusel {
+    height: 50vh;
+    object-fit: cover;
+}
+
+.carrusel-suave {
+    transition: height 0.5s ease-out;
+}
+
+.carrusel-suave img {
+    transition: opacity 0.5s ease-out;
+    width: 480px;
+}
+
+.carousel-caption .btn {
+    background-color: #FFFFFF; /* Fondo blanco */
+    color: #000000; /* Texto negro */
+    border: 2px solid #000000; /* Borde negro */
+    font-weight: bold; /* Negrita */
+}
+
+.carousel-caption .btn:hover {
+    background-color: #000000; /* Fondo negro al pasar el mouse */
+    color: #FFFFFF; /* Texto blanco al pasar el mouse */
+}
+/* Estilo para el texto del carrusel */
+.carousel-caption h3 {
+    color: #FFFFFF; /* Color blanco para el título */
+    font-size: 24px; /* Tamaño de fuente */
+    font-weight: bold; /* Negrita */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Sombra para mejor visibilidad */
+}
+
+.carousel-caption p {
+    color: #FFFFFF; /* Color blanco para la descripción */
+    font-size: 16px; /* Tamaño de fuente */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Sombra para mejor visibilidad */
 }
